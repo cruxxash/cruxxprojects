@@ -1,2 +1,2 @@
-# cruxxprojects
-Projects done as a part of my Data Analytics curriculum and beyond
+# ProjectsR
+All my work done as a part of my curriculum and beyond

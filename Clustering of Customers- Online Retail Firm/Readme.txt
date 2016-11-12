@@ -1,0 +1,1 @@
+Clustering on customers done by K Means and Hierchical Clustering Methods
